@@ -110,10 +110,14 @@ nav a {
 
 .img_princ{
 
-    max-width: 100%; /* L'image ne dépassera jamais la largeur du conteneur */
-  height: auto; /* Permet de conserver les proportions */
+    .img_princ{
+
+    max-width: 100%; 
+  height: auto; 
   display: block; 
-  width: 150px;
+
+
+}
 
 }
 
